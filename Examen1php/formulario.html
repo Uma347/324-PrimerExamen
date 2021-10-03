@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<title>INGRESAR</title>
+	</head>
+	<body >
+	    <?php include "cabecera.inc.php"; ?>
+        <div id="navegador">
+			<ul>
+				<li>
+				<a href="index.php"> PRINCIPAL</a>
+				</li>
+				<li>
+				<a href="informatica.php">INFORMÁTICA</a>
+				</li>
+				<li>
+				<a href="quimica.php">QUÍMICA</a>
+				</li>
+				<li>
+				<a href="estadistica.php">ESTADÍSTICA</a>
+				</li>
+				<li>
+				<a href="formulario.html">INGRESAR</a>
+				</li>
+			<ul>
+	</div>
+
+        <div align="center">
+            
+            <form method="POST" action="redirigir.php" class="formulario">
+            <div >
+                <h1>
+                    LOGIN
+                </h1>
+            <h3>Usuario: <br>
+            <input placeholder="Introduce tu CI sin extension"type="number" name="ci" size="50"  required></h3>
+            <h3>Contraseña: <br>
+            <input type="password" name="password" size="50" placeholder="Introduce tu contraseña" required></h3>
+            <h3>
+            <div align="center">
+            <div style="width: 80%;" class="alineacion">
+            <input type="submit" value="Acceder" class="boton" >
+            <input type="reset" value="Borrar" class="boton">
+            </h3>
+            </div>
+            </div>
+          
+        </div>
+    </form>
+    </div>
+    <?php include "piedepagina.inc.php"; ?>
+	</body>
+</html>
