@@ -1,0 +1,10 @@
+En esta carpeta se encuentran los archivos que corresponden a los tres primeros incisos:
+
+1. Genere una pantalla con templates (CSS y PHP) debidamente maquetado de acceso a la 
+facultad y al menos tres carreras.
+
+2. Implemente una pantalla donde pueda visualizar sus notas (PHP).
+
+3. Implemente el ROL DOCENTE, el mismo debe tener la posibilidad de visualizar por 
+departamento la media de notas, solo código PHP bajando la consulta en un array 
+(similar al case-when, pero sin usar estos).
