@@ -1,2 +1,0 @@
-La base de datos que tiene el nombre examen1soraide.sql es la base de datos que se uso para los ejemplos
-con php y Mysql.
