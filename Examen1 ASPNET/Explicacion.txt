@@ -1,0 +1,2 @@
+La archivo comprimido WebAplicacion corresponde a la resolucion del punto numero 4 de la tarea:
+4. La misma anterior, pero son ASP.NET lea la consulta SQL (case-when) y desplieguela.
